@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mate-todo-app/static/css/main.c24d7c10.css",
+    "main.js": "/mate-todo-app/static/js/main.ecded162.js",
+    "index.html": "/mate-todo-app/index.html",
+    "main.c24d7c10.css.map": "/mate-todo-app/static/css/main.c24d7c10.css.map",
+    "main.ecded162.js.map": "/mate-todo-app/static/js/main.ecded162.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c24d7c10.css",
+    "static/js/main.ecded162.js"
+  ]
+}
